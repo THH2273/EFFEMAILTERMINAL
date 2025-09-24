@@ -1,0 +1,11 @@
+{
+    "serverAddress": "ef.research.gov",
+    "serverName": "Earth Federation Government Research",
+    "iconName": "efflag.png",
+    "terminalID": "city",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anon"
+    }
+}
