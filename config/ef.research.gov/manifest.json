@@ -4,8 +4,8 @@
     "iconName": "efflag.png",
     "terminalID": "city",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anon"
+        "userId": "gs",
+        "password": "0079",
+        "userName": "Schadenfreude "
     }
 }
