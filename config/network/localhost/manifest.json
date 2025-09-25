@@ -1,11 +1,12 @@
 {
+     "year": "UC 0098",
     "serverAddress": "localhost",
     "serverName": "RX-108-L TERMINAL",
-    "iconName": "EFF_SHIELD.png",
+    "iconName": "EFFlogo.png",
     "terminalID": "RX-108-L-",
     "defaultUser": {
         "userId": "gen",
-        "password": "",
+        "password": "0079",
         "userName": "Schadenfreude"
     },
     "initialHistory": {
