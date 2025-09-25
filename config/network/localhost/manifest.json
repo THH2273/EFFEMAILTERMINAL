@@ -3,16 +3,13 @@
     "serverAddress": "localhost",
     "serverName": "RX-108-L TERMINAL",
     "iconName": "EFFlogo.png",
-    "terminalID": "RX-108-L-",
+    "terminalID": "RX-108-L",
     "defaultUser": {
         "userId": "gen",
         "password": "0079",
         "userName": "Schadenfreude"
     },
     "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
         "admin": [
             "ping ef.research.gov"
         ]
