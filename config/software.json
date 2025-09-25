@@ -1,5 +1,5 @@
 {
-    "Pilots0079.data": {
+    "pilots0079.data": {
         "help": "Shows your currently assigned Squad",
         "clear": true,
         "delayed": 2000,
