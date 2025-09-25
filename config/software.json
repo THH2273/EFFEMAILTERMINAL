@@ -4,10 +4,13 @@
         "clear": true,
         "delayed": 2000,
         "message": [
+            "img src='config/network/localhost/grunt.png' style='width: 10rem'>",
            "PILOT 1: RAKAN YUNA, PILOT OF RGM-79 'GM'... CUSTOMIZED UNIT",
+            "img src='config/network/localhost/Pilot1.png' style='width: 10rem'>",
            "PILOT 2: ZA ROSSO, PILOT OF RGM-79 'POWERED GM'",
+            "img src='config/network/localhost/Pilot2.png' style='width: 10rem'>",
            "PILOT 3: AINA VERLAINE, PILOT OF RGC-80 'GM CANNON'",
-           "SQUAD LEADER: XXX XXXX, PILOT OF...\nRX-83-C 'GUNDAM HIGH MOBILITY COMMAND TYPE'"
+           "SQUAD LEADER: XXX XXXX, PILOT OF... RX-83-S 'GUNDAM HIGH MOBILITY COMMAND TYPE'"
         ]
     }
    
